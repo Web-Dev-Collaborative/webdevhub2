@@ -1,0 +1,10 @@
+.DS_Store
+yarn.lock
+/node_modules/
+/src/node_modules/@sapper/
+yarn-error.log
+.svelte/
+build/
+/lambda/
+static/global.css
+static/styles.css
