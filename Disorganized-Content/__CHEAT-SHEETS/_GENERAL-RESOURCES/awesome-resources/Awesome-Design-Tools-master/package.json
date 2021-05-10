@@ -27,7 +27,7 @@
     "i": "^0.3.6",
     "jsdom": "^14.1.0",
     "npm": "^6.13.4",
-    "tinycolor2": "^1.4.1"
+    "tinycolor2": "^1.4.2"
   },
   "dependencies": {
     "markdown-it": "^8.4.2",
