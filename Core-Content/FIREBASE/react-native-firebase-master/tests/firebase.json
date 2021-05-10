@@ -1,0 +1,37 @@
+{
+  "react-native": {
+    "android_background_activity_names": "NotActuallyAnActivity",
+
+    "admob_delay_app_measurement_init": true,
+    "admob_ios_app_id": "ca-app-pub-4406399463942824~1625911479",
+    "admob_android_app_id": "ca-app-pub-4406399463942824~1625911479",
+
+    "crashlytics_ndk_enabled": true,
+    "crashlytics_debug_enabled": true,
+    "crashlytics_disable_auto_disabler": true,
+    "crashlytics_auto_collection_enabled": true,
+    "crashlytics_is_error_generation_on_js_crash_enabled": true,
+    "crashlytics_javascript_exception_handler_chaining_enabled": false,
+
+    "messaging_auto_init_enabled": true,
+    "messaging_android_headless_task_timeout": 30000,
+    "messaging_android_notification_channel_id": "",
+    "messaging_android_notification_color": "@color/hotpink",
+    "messaging_ios_auto_register_for_remote_messages": true,
+
+    "analytics_auto_collection_enabled": true,
+
+    "perf_auto_collection_enabled": true,
+
+    "android_task_executor_maximum_pool_size": 10,
+    "android_task_executor_keep_alive_seconds": 3,
+
+    "TODO_in_app_messaging_auto_collection_enabled": true,
+    "TODO_database_persistence_enabled": true,
+    "TODO_firestore_persistence_enabled": true,
+
+    "rnfirebase_json_testing_string": "abc",
+    "rnfirebase_json_testing_boolean_false": false,
+    "rnfirebase_json_testing_boolean_true": true
+  }
+}
