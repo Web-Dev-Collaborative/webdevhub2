@@ -6165,10 +6165,10 @@ negotiator@0.6.2:
   resolved "https://registry.yarnpkg.com/negotiator/-/negotiator-0.6.2.tgz#feacf7ccf525a77ae9634436a64883ffeca346fb"
   integrity sha512-hZXc7K2e+PgeI1eDBe/10Ard4ekbfrrqG8Ep+8Jmf4JID2bNg7NvCPOZN+kfF574pFQI7mum2AUqDidoKqcTOw==
 
-netlify-plugin-minify-html@^0.2.3:
-  version "0.2.3"
-  resolved "https://registry.yarnpkg.com/netlify-plugin-minify-html/-/netlify-plugin-minify-html-0.2.3.tgz#3e7f2ce846f1fb20e8f24c08af47dc268fe44c1c"
-  integrity sha512-loe90gIM9zHYfZo5xkA7bwY7tDGzXrwiRZ6kLjI9zVvI96mNgu8L09geAYfj/7fqm0WIJ1wTfXReQyh1jXBWWA==
+netlify-plugin-minify-html@^0.3.0:
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/netlify-plugin-minify-html/-/netlify-plugin-minify-html-0.3.1.tgz#bca599d5763b41e6575835f26a09df3d51792099"
+  integrity sha512-0bmVWMtxOCjx66dWGjT9tXQw0hi/8OfkIunaS4A8negAE8yT2iTVr/2vB8nEagIJ16UJhmb7KzvuvVfnwZn5Og==
   dependencies:
     "@node-minify/core" "^5.3.0"
     "@node-minify/html-minifier" "^5.3.0"
